@@ -1,7 +1,7 @@
 # LinkedInDog
-##简介
+## 简介
 自动化搜索并爬取领英个人简介,通过网页另存为的方式保存.
-##使用方法
+## 使用方法
 ```
 Usage: LinkedInDog.py crawl [OPTIONS]
 Options:
@@ -17,7 +17,7 @@ Options:
   --num INTEGER          需要爬取的百度搜索页面数量
 
 ```
-##注意事项
+## 注意事项
 使用前需安装依赖
 `pip install -r requirements.txt`
 **
