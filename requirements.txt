@@ -1,0 +1,5 @@
+lxml==4.2.5
+click==6.7
+PyAutoGUI==0.9.41
+requests==2.18.4
+selenium==3.3.1
