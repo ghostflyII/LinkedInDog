@@ -18,14 +18,16 @@ Options:
 
 ```
 ## 注意事项
+```
 使用前需安装依赖
-`pip install -r requirements.txt`
-**
+pip install -r requirements.txt
 浏览器,selenium,geckodriver三者版本需要互相匹配.
 已知可用版本套餐如下:
 Firefox 52.7.3
 selenium 3.3.1
 geckodriver 0.15.0
-**
 建议在虚拟机中运行,不妨碍主机操作
+```
+
+
 
